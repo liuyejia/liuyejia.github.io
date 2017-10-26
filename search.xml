@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2017%2F10%2F26%2Ftest%2F</url>
+    <content type="text"><![CDATA[bbbbb]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[博客开张]]></title>
     <url>%2F2017%2F10%2F12%2F%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%2F</url>
     <content type="text"><![CDATA[在此非常感谢的大神女朋友April Wang的帮忙~~~ 1import java.util.*;]]></content>
