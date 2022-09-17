@@ -18,7 +18,11 @@
   <url>
     <loc>https://example.com/publication/</loc><lastmod>2022-09-14T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/example2/</loc><lastmod>2022-06-01T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication/fedrain/</loc><lastmod>2022-06-01T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/rain&#43;&#43;/</loc><lastmod>2022-06-01T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/lehdc/</loc><lastmod>2022-06-01T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -35,6 +39,8 @@
     <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/tree/</loc><lastmod>2018-09-01T11:11:11+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
