@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Yejia (Martha) Liu</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nuerips.com/publication-type/1/</link>
+      <atom:link href="https://nuerips.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 11:11:11 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nuerips.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://nuerips.com/publication-type/1/</link>
     </image>
     
     <item>
       <title>Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://nuerips.com/publication/nuerips/</link>
       <pubDate>Wed, 14 Sep 2022 11:11:11 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://nuerips.com/publication/nuerips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling SQL-based Training Data Debugging for Federated Learning</title>
-      <link>https://example.com/publication/fedrain/</link>
+      <link>https://nuerips.com/publication/fedrain/</link>
       <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://example.com/publication/fedrain/</guid>
+      <guid>https://nuerips.com/publication/fedrain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling SQL-based Training Data Debugging for Federated Learning</title>
-      <link>https://example.com/publication/rain&#43;&#43;/</link>
+      <link>https://nuerips.com/publication/rain&#43;&#43;/</link>
       <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://example.com/publication/rain&#43;&#43;/</guid>
+      <guid>https://nuerips.com/publication/rain&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LeHDC: Learning-Based Hyperdimensional Computing Classifier</title>
-      <link>https://example.com/publication/lehdc/</link>
+      <link>https://nuerips.com/publication/lehdc/</link>
       <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://example.com/publication/lehdc/</guid>
+      <guid>https://nuerips.com/publication/lehdc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model trees for identifying exceptional players in the NHL and NBA drafts</title>
-      <link>https://example.com/publication/tree/</link>
+      <link>https://nuerips.com/publication/tree/</link>
       <pubDate>Sat, 01 Sep 2018 11:11:11 +0000</pubDate>
-      <guid>https://example.com/publication/tree/</guid>
+      <guid>https://nuerips.com/publication/tree/</guid>
       <description></description>
     </item>
     
