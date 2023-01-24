@@ -5,20 +5,12 @@
     <link>https://nuerips.com/publication-type/1/</link>
       <atom:link href="https://nuerips.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 11:11:11 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 11:11:11 +0000</lastBuildDate>
     <image>
       <url>https://nuerips.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://nuerips.com/publication-type/1/</link>
     </image>
-    
-    <item>
-      <title>MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption</title>
-      <link>https://nuerips.com/publication/tinyml/</link>
-      <pubDate>Sun, 01 Jan 2023 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/tinyml/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning</title>
@@ -29,18 +21,26 @@
     </item>
     
     <item>
-      <title>Complaint-Driven Training Data Debugging at Interactive Speeds</title>
-      <link>https://nuerips.com/publication/rain&#43;&#43;/</link>
-      <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/rain&#43;&#43;/</guid>
+      <title>MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption</title>
+      <link>https://nuerips.com/publication/tinyml/</link>
+      <pubDate>Mon, 01 Aug 2022 11:11:11 +0000</pubDate>
+      <guid>https://nuerips.com/publication/tinyml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling SQL-based Training Data Debugging for Federated Learning</title>
       <link>https://nuerips.com/publication/fedrain/</link>
-      <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 11:11:11 +0000</pubDate>
       <guid>https://nuerips.com/publication/fedrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complaint-Driven Training Data Debugging at Interactive Speeds</title>
+      <link>https://nuerips.com/publication/rain&#43;&#43;/</link>
+      <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
+      <guid>https://nuerips.com/publication/rain&#43;&#43;/</guid>
       <description></description>
     </item>
     
