@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Yejia (Martha) Liu</title>
-    <link>https://nuerips.com/publication/</link>
-      <atom:link href="https://nuerips.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://neurips.com/publication/</link>
+      <atom:link href="https://neurips.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 11:11:11 +0000</lastBuildDate>
     <image>
-      <url>https://nuerips.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
+      <url>https://neurips.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://nuerips.com/publication/</link>
+      <link>https://neurips.com/publication/</link>
     </image>
     
     <item>
       <title>Building Socially-Equitable Public Models</title>
-      <link>https://nuerips.com/publication/equitablepm/</link>
+      <link>https://neurips.com/publication/equitablepm/</link>
       <pubDate>Wed, 29 May 2024 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/equitablepm/</guid>
+      <guid>https://neurips.com/publication/equitablepm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning</title>
-      <link>https://nuerips.com/publication/nuerips/</link>
+      <link>https://neurips.com/publication/neurips/</link>
       <pubDate>Wed, 14 Sep 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/nuerips/</guid>
+      <guid>https://neurips.com/publication/neurips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption</title>
-      <link>https://nuerips.com/publication/tinyml/</link>
+      <link>https://neurips.com/publication/tinyml/</link>
       <pubDate>Mon, 01 Aug 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/tinyml/</guid>
+      <guid>https://neurips.com/publication/tinyml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling SQL-based Training Data Debugging for Federated Learning</title>
-      <link>https://nuerips.com/publication/fedrain/</link>
+      <link>https://neurips.com/publication/fedrain/</link>
       <pubDate>Fri, 01 Jul 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/fedrain/</guid>
+      <guid>https://neurips.com/publication/fedrain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complaint-Driven Training Data Debugging at Interactive Speeds</title>
-      <link>https://nuerips.com/publication/rain&#43;&#43;/</link>
+      <link>https://neurips.com/publication/rain&#43;&#43;/</link>
       <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/rain&#43;&#43;/</guid>
+      <guid>https://neurips.com/publication/rain&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LeHDC: Learning-Based Hyperdimensional Computing Classifier</title>
-      <link>https://nuerips.com/publication/lehdc/</link>
+      <link>https://neurips.com/publication/lehdc/</link>
       <pubDate>Wed, 01 Jun 2022 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/lehdc/</guid>
+      <guid>https://neurips.com/publication/lehdc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model trees for identifying exceptional players in the NHL and NBA drafts</title>
-      <link>https://nuerips.com/publication/tree/</link>
+      <link>https://neurips.com/publication/tree/</link>
       <pubDate>Sat, 01 Sep 2018 11:11:11 +0000</pubDate>
-      <guid>https://nuerips.com/publication/tree/</guid>
+      <guid>https://neurips.com/publication/tree/</guid>
       <description></description>
     </item>
     

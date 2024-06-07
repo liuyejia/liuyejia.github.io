@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nuerips.com/talk/example-talk/</loc>
+    <loc>https://neurips.com/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/event/</loc>
+    <loc>https://neurips.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/</loc>
+    <loc>https://neurips.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication-type/1/</loc>
+    <loc>https://neurips.com/publication-type/1/</loc>
     <lastmod>2024-05-29T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/equitablepm/</loc>
+    <loc>https://neurips.com/publication/equitablepm/</loc>
     <lastmod>2024-05-29T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication_types/</loc>
+    <loc>https://neurips.com/publication_types/</loc>
     <lastmod>2024-05-29T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/</loc>
+    <loc>https://neurips.com/publication/</loc>
     <lastmod>2024-05-29T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/nuerips/</loc>
+    <loc>https://neurips.com/publication/neurips/</loc>
     <lastmod>2022-09-14T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/tinyml/</loc>
+    <loc>https://neurips.com/publication/tinyml/</loc>
     <lastmod>2022-08-01T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/fedrain/</loc>
+    <loc>https://neurips.com/publication/fedrain/</loc>
     <lastmod>2022-07-01T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/rain&#43;&#43;/</loc>
+    <loc>https://neurips.com/publication/rain&#43;&#43;/</loc>
     <lastmod>2022-06-01T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/lehdc/</loc>
+    <loc>https://neurips.com/publication/lehdc/</loc>
     <lastmod>2022-06-01T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/tag/academic/</loc>
+    <loc>https://neurips.com/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/categories/</loc>
+    <loc>https://neurips.com/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/category/demo/</loc>
+    <loc>https://neurips.com/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/post/</loc>
+    <loc>https://neurips.com/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/tags/</loc>
+    <loc>https://neurips.com/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/post/getting-started/</loc>
+    <loc>https://neurips.com/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://neurips.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://neurips.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/publication/tree/</loc>
+    <loc>https://neurips.com/publication/tree/</loc>
     <lastmod>2018-09-01T11:11:11+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/tag/deep-learning/</loc>
+    <loc>https://neurips.com/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/project/example/</loc>
+    <loc>https://neurips.com/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/project/</loc>
+    <loc>https://neurips.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://nuerips.com/admin/</loc>
+    <loc>https://neurips.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
