@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yejia (Martha) Liu</title>
+    <title>Selected Publications | Yejia (Martha) Liu</title>
     <link>https://neurips.com/publication/</link>
       <atom:link href="https://neurips.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <description>Selected Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 11:11:11 +0000</lastBuildDate>
     <image>
       <url>https://neurips.com/media/icon_huab1f20bfd8ea62f5ce7e9250b708ccab_2855_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
+      <title>Selected Publications</title>
       <link>https://neurips.com/publication/</link>
     </image>
     
